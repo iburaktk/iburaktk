@@ -1,8 +1,9 @@
 ### Hi there 👋 I am İbrahim Burak Tanrıkulu.
-- 🔭 I’m currently coding autonomous driving for our Mars Rover and Unhumaned Underwater Vehicle. 
-- Also i am working on Machine Reasoning Engine and Rasa Chatbot with Natural Language Processing.
-- 🌱 I’m currently learning Full-stack developing with Flutter, React, Angular; Machine Learning, Computer Vision.
-- 📫 You can reach me with E-Mail: iburaktk482@gmail.com
+- I worked in coding autonomous driving for our Mars Rover and Unhumaned Underwater Vehicle as the Software team captain. 
+- Also i am worked on Machine Reasoning Engine that new type of Hybrid Artificial Intelligence
+- I made a virtual assistant with audio via Rasa framework and Natural Language Processing.
+- I’m improving my skills at Full-stack developing with Flutter, React, Angular, .NET; Machine Learning, Computer Vision and Robotics.
+- You can reach me with E-Mail: iburaktk482@gmail.com
 
 - <b>Languages</b>: Turkish (Native), English (Intermediate)
 
